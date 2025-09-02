@@ -3,6 +3,9 @@
 
 Dayslide is a personal development application designed to help you break down your goals into actionable steps. Our onboarding wizard guides you through a process of self-discovery, transforming your ambitions into a clear, manageable plan. Track your progress, build habits, and turn your dreams into reality, one day at a time.
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/9ff0210e-ebbb-495d-8b0f-5379d7e719c6" />
+
+
 ## Live Demo
 
 [Link to the live demo]()
